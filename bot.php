@@ -62,7 +62,7 @@ Format:*** /bin 76xxxxx",
  'reply_markup' =>  json_encode([
                 'inline_keyboard' => [
                     
-                        [['text' => "UPDATES CHANNEL",'url'=>"https://telegram.me/Discovery_Updates"], ['text' => "SUPPORT GROUP",'url'=>"https://telegram.me/linux_repo"]
+                        [['text' => "UPDATES CHANNEL",'url'=>"https://t.me/Animemusicarchive6"], ['text' => "SUPPORT GROUP",'url'=>"https://t.me/Yeageristbots"]
                     ],
 
                     
@@ -106,7 +106,7 @@ bot('sendmessage', [
 	'reply_markup' =>  json_encode([
                 'inline_keyboard' => [
                     
-                        [['text' => "Try Again",'url'=>"https://t.me/BinChecker_Robot?start"]
+                        [['text' => "Thnks for using Join for updates",'url'=>"https://t.me/Animemusicarchive6"]
                     ],
 
                     
